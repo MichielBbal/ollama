@@ -35,17 +35,28 @@ On the first wednesday of the month there will be a 'Do it yourself together' me
 - Ollama cheat sheet (see repo)
 - Slides presentation (see repo)
 
-## Meetup 2: 15 May: Chat with your documents using langchain
-### Chat with your documents with langchain
-[langchain video](https://www.youtube.com/watch?v=99cKvNuSEzk)
-[langchain docs](https://python.langchain.com/docs/integrations/llms/ollama/)
+## Meetup 2: 15 May: 
 
-Dummy notebook:
-[Langchain Notebook](https://github.com/marklysze/LangChain-RAG-Linux/blob/main/01-LangChain-RAG.ipynb)
+Topics:
+1. Recap of first meetup
+2. Downloading models from Huggingface
+3. A deeper look at Vision Language Models
+4. Retrieval Augmented Generation from scratch
+5. Show and tell
 
-[Langcain video](https://www.youtube.com/watch?v=_TUvb6NtpGA&t=13s)
+### Notebooks 15 may
+All notebooks from first meetup.
 
-## Meetup 3: 19 june: personalize your chatbot + bring your own model
+1. Use ollama.ipynb from first lesson but now with another model
+2. ollama_llava_self_driving_car.ipynb. See how good Llava is in recognizing traffic situations. It does not make same mistakes as some self driving car. Progress!
+3. RAG_basics_from_scratch.ipynb
+4. Bonus: ollama_RAG_exercises.ipynb
+
+### Video:
+(Intro to huggingface)[https://www.youtube.com/watch?v=jBFFUwL0TyY]
+(Intro to RAG with ollama)[https://www.youtube.com/watch?v=V1Mz8gMBDMo]
+
+## Meetup 3: 19 june: personalize your chatbot + quantization
 
 ###
 
