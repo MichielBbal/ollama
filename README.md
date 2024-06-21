@@ -69,9 +69,8 @@ Here are some recommended libraries in python:
 
 If you do this, it would be cool to share your results & code with others so they can use it!
 
-### Short course on Quantization (hard)
-- [deeplearning.ai Quantization course](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/?utm_campaign=huggingfaceC2-launch&utm_medium=featured-card&utm_source=dlai-homepage) In this free deeplearning.ai course of ca. 2 hours, you will learn about making models smaller. It's an introductory course, but you'll need knowledge about datatypes and pytorch. 
-
+### More on vision language models
+We will talk about more on 
 ## Other Links
 - [www.sensemakersams.org](https://www.sensemakers.org) - Sensemakers website
 - [www.meetup.com](https://www.meetup.com/sensemakersams/events/298443520/)  Link to Meetup 
